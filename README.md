@@ -1,5 +1,3 @@
-
-````markdown
 # Project Setup & Run Guide
 
 This guide explains how to set up the environment, install all required dependencies, and run the project.
