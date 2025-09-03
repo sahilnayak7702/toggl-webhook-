@@ -37,7 +37,8 @@ pip install flask requests gspread oauth2client pynacl opencv-python numpy matpl
 ```
 
 ---
-
+### enter your TOGGL_API_TOKEN and DISCORD_WEBHOOK_URL.
+---
 ## 4. Run the Script
 
 ```bash
